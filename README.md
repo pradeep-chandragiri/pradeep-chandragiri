@@ -1,21 +1,17 @@
-<h1 align="center">Pradeep Chandragiri</h1>
+<h1>Pradeep Chandragiri</h1>
 
-<p align="center">
+<p>
   <code>Backend Developer&nbsp;(Open to Work)</code>
 </p>
 
-<br/>
-
-<p align="center">
+<p>
   Final year BTech student focused on backend development.
   Right now I'm building a microservices-based e-commerce backend from scratch —
   API gateway, auth, user management, product catalog, and more.
   I'm actively looking for a backend developer role.
 </p>
 
-<br/>
-
-<p align="center">
+<p>
   <a href="https://github.com/pradeep-chandragiri?tab=followers">
     <img src="https://img.shields.io/github/followers/pradeep-chandragiri?label=FOLLOWERS&style=for-the-badge&logo=github&color=ef4444&labelColor=ef4444&logoColor=white" />
   </a>

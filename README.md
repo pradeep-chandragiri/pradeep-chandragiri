@@ -61,7 +61,7 @@ This project mainly focuses on backend engineering concepts such as Microservice
 
 **Stack:** Node.js · Express · MongoDB · MySQL · Prisma · JWT · Docker
 
-**Repository:** <code>[https://github.com/your-username/your-repository-name](https://github.com/pradeep-chandragiri/ecommerce-microservices)</code>
+**Repository:** <code>[https://github.com/pradeep-chandragiri/ecommerce-microservices](https://github.com/pradeep-chandragiri/ecommerce-microservices)</code>
 
 ---
 

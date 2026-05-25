@@ -53,9 +53,15 @@
 
 ### Mini E-commerce Microservices Backend
 
-Each service is independent, runs on its own port, and owns its own database. All communication goes through the API gateway as a single entry point. The Auth Service covers the full auth flow — register, email verification, login, logout, forgot and reset password. The User Service handles profile management with secured internal communication between services. The Product Service is currently in progress — it's a clothing catalog with role-based access for admin, seller, and buyer. Order Service, Payment Service, and Docker setup are all upcoming.
+The backend architecture for this project has been completed using a microservices approach. Each service is fully independent, runs on its own port, and manages its own database. All external communication is handled through a centralized API Gateway, which acts as the single entry point to the system.
+
+The Auth Service includes complete authentication and authorization flow with register, login, and logout functionality using JWT-based authentication. The User Service handles profile management and secured internal service communication. The Product Service manages a clothing catalog with role-based access control for seller and buyer operations.
+
+This project mainly focuses on backend engineering concepts such as Microservice Architecture, API Gateway pattern, service isolation, database separation, authentication flow, and inter-service communication between independent services.
 
 **Stack:** Node.js · Express · MongoDB · MySQL · Prisma · JWT · Docker
+
+**Repository:** <code>[https://github.com/your-username/your-repository-name](https://github.com/pradeep-chandragiri/ecommerce-microservices)</code>
 
 ---
 

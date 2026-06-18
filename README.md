@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/OPEN%20TO-work-4ade80?style=for-the-badge&logo=briefcase&labelColor=4ade80&logoColor=white" />
 </p>
 
----
+
 
 ## Languages and Tools
 
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+
 
 <p align="center">
   <em>Open to backend developer roles. If you're building something real — let's talk.</em>

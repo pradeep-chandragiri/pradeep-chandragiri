@@ -1,14 +1,12 @@
 <h1>Pradeep Chandragiri</h1>
 
 <p>
-  <code>Backend Developer&nbsp;(Open to Work)</code>
+  <code>Full Stack Developer&nbsp;(Open to Work)</code>
 </p>
 
 <p>
-  Final year BTech student focused on backend development.
-  Right now I'm building a microservices-based e-commerce backend from scratch —
-  API gateway, auth, user management, product catalog, and more.
-  I'm actively looking for a backend developer role.
+  Final year BTech student focused on full stack development.
+  I'm actively looking for a full stack developer role.
 </p>
 
 <p>

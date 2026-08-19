@@ -49,5 +49,5 @@
 
 
 <p align="center">
-  <em>Open to backend developer roles. If you're building something real — let's talk.</em>
+  <em>Open to full stack developer roles. If you're building something real — let's talk.</em>
 </p>

@@ -1,32 +1,3 @@
-<h1>Pradeep Chandragiri</h1>
-
-<p>
-  <code>Full Stack Developer&nbsp;(Open to Work)</code>
-</p>
-
-<p>
-  Final year BTech student focused on full stack development.
-  I'm actively looking for a full stack developer role.
-</p>
-
-<p>
-  <a href="https://github.com/pradeep-chandragiri?tab=followers">
-    <img src="https://img.shields.io/github/followers/pradeep-chandragiri?label=FOLLOWERS&style=for-the-badge&logo=github&color=ef4444&labelColor=ef4444&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pradeep-chandragiri?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/pradeep-chandragiri/secure-authentication-system?label=STARS&style=for-the-badge&logo=github&color=f59e0b&labelColor=f59e0b&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pradeep-chandragiri">
-    <img src="https://img.shields.io/badge/LINKEDIN-connect-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0a66c2&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OPEN%20TO-work-4ade80?style=for-the-badge&logo=briefcase&labelColor=4ade80&logoColor=white" />
-</p>
-
-
-
 ## Languages and Tools
 
 <p align="left">
